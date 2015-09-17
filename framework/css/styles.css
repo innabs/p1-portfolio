@@ -1,25 +1,25 @@
 body {
-  font-family: 'Economica', sans-serif;
-  margin: 0;
-  background-color: #ECF3F9;
+	font-family: "Economica", sans-serif;
+  	margin: 0;
+  	background-color: #ecf3f9;
 }
 
 h1 {
 	font-weight: bold;
-	color: #F1894C;
+	color: #f1894c;
 }
 
 h2 {
-	color: #619CD6;
+	color: #619cd6;
 }
 
 h3 {
-	color: #2D3E52;
+	color: #2d3e52;
     font-weight: bolder;
 }
 
 hr {
-	border-top: 2px solid #F1894C;
+	border-top: 2px solid #f1894c;
 	margin: 15px 0;
 }
 
