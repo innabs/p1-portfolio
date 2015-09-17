@@ -1,0 +1,32 @@
+body {
+  font-family: 'Economica', sans-serif;
+  margin: 0;
+  background-color: #ECF3F9;
+}
+
+h1 {
+	font-weight: bold;
+	color: #F1894C;
+}
+
+h2 {
+	color: #619CD6;
+}
+
+h3 {
+	color: #2D3E52;
+    font-weight: bolder;
+}
+
+hr {
+	border-top: 2px solid #F1894C;
+	margin: 15px 0;
+}
+
+.profile-img {
+	margin-top: 20px;
+}
+
+.project-img {
+	width: 50%;
+}
